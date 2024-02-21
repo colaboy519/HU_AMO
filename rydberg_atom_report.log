@@ -1,0 +1,1129 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.21)  8 AUG 2023 16:31
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**rydberg_atom_report.tex
+(./rydberg_atom_report.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2019-12-06 v5.2j context-sensitive quotations (JAW)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count176
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+\csq@reset=\count177
+\csq@gtype=\count178
+\csq@glevel=\count179
+\csq@qlevel=\count180
+\csq@maxlvl=\count181
+\csq@tshold=\count182
+\csq@ltx@everypar=\toks16
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2019-12-06 v5.2j csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count183
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count184
+\c@listtotal=\count185
+\c@listcount=\count186
+\c@liststart=\count187
+\c@liststop=\count188
+\c@citecount=\count189
+\c@citetotal=\count190
+\c@multicitecount=\count191
+\c@multicitetotal=\count192
+\c@instcount=\count193
+\c@maxnames=\count194
+\c@minnames=\count195
+\c@maxitems=\count196
+\c@minitems=\count197
+\c@citecounter=\count198
+\c@maxcitecounter=\count199
+\c@savedcitecounter=\count266
+\c@uniquelist=\count267
+\c@uniquename=\count268
+\c@refsection=\count269
+\c@refsegment=\count270
+\c@maxextratitle=\count271
+\c@maxextratitleyear=\count272
+\c@maxextraname=\count273
+\c@maxextradate=\count274
+\c@maxextraalpha=\count275
+\c@abbrvpenalty=\count276
+\c@highnamepenalty=\count277
+\c@lownamepenalty=\count278
+\c@maxparens=\count279
+\c@parenlevel=\count280
+\blx@tempcnta=\count281
+\blx@tempcntb=\count282
+\blx@tempcntc=\count283
+\blx@maxsection=\count284
+\blx@maxsegment@0=\count285
+\blx@notetype=\count286
+\blx@parenlevel@text=\count287
+\blx@parenlevel@foot=\count288
+\blx@sectionciteorder@0=\count289
+\blx@entrysetcounter=\count290
+\labelnumberwidth=\skip49
+\labelalphawidth=\skip50
+\biblabelsep=\skip51
+\bibitemsep=\skip52
+\bibnamesep=\skip53
+\bibinitsep=\skip54
+\bibparsep=\skip55
+\bibhang=\skip56
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language86
+\c@mincomprange=\count291
+\c@maxcomprange=\count292
+\c@mincompwidth=\count293
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count294
+\c@savedafterword=\count295
+\c@annotator=\count296
+\c@savedannotator=\count297
+\c@author=\count298
+\c@savedauthor=\count299
+\c@bookauthor=\count300
+\c@savedbookauthor=\count301
+\c@commentator=\count302
+\c@savedcommentator=\count303
+\c@editor=\count304
+\c@savededitor=\count305
+\c@editora=\count306
+\c@savededitora=\count307
+\c@editorb=\count308
+\c@savededitorb=\count309
+\c@editorc=\count310
+\c@savededitorc=\count311
+\c@foreword=\count312
+\c@savedforeword=\count313
+\c@holder=\count314
+\c@savedholder=\count315
+\c@introduction=\count316
+\c@savedintroduction=\count317
+\c@namea=\count318
+\c@savednamea=\count319
+\c@nameb=\count320
+\c@savednameb=\count321
+\c@namec=\count322
+\c@savednamec=\count323
+\c@translator=\count324
+\c@savedtranslator=\count325
+\c@shortauthor=\count326
+\c@savedshortauthor=\count327
+\c@shorteditor=\count328
+\c@savedshorteditor=\count329
+\c@labelname=\count330
+\c@savedlabelname=\count331
+\c@institution=\count332
+\c@savedinstitution=\count333
+\c@lista=\count334
+\c@savedlista=\count335
+\c@listb=\count336
+\c@savedlistb=\count337
+\c@listc=\count338
+\c@savedlistc=\count339
+\c@listd=\count340
+\c@savedlistd=\count341
+\c@liste=\count342
+\c@savedliste=\count343
+\c@listf=\count344
+\c@savedlistf=\count345
+\c@location=\count346
+\c@savedlocation=\count347
+\c@organization=\count348
+\c@savedorganization=\count349
+\c@origlocation=\count350
+\c@savedoriglocation=\count351
+\c@origpublisher=\count352
+\c@savedorigpublisher=\count353
+\c@publisher=\count354
+\c@savedpublisher=\count355
+\c@language=\count356
+\c@savedlanguage=\count357
+\c@origlanguage=\count358
+\c@savedoriglanguage=\count359
+\c@pageref=\count360
+\c@savedpageref=\count361
+\shorthandwidth=\skip57
+\shortjournalwidth=\skip58
+\shortserieswidth=\skip59
+\shorttitlewidth=\skip60
+\shortauthorwidth=\skip61
+\shorteditorwidth=\skip62
+\locallabelnumberwidth=\skip63
+\locallabelalphawidth=\skip64
+\localshorthandwidth=\skip65
+\localshortjournalwidth=\skip66
+\localshortserieswidth=\skip67
+\localshorttitlewidth=\skip68
+\localshortauthorwidth=\skip69
+\localshorteditorwidth=\skip70
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+\c@textcitecount=\count362
+\c@textcitetotal=\count363
+\c@textcitemaxnames=\count364
+\c@biburlbigbreakpenalty=\count365
+\c@biburlbreakpenalty=\count366
+\c@biburlnumpenalty=\count367
+\c@biburlucpenalty=\count368
+\c@biburllcpenalty=\count369
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count370
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count371
+\c@bbx:relatedtotal=\count372
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip71
+\subfigcapskip=\skip72
+\subfigcaptopadj=\dimen137
+\subfigbottomskip=\skip73
+\subfigcapmargin=\dimen138
+\subfiglabelskip=\skip74
+\c@subfigure=\count373
+\c@lofdepth=\count374
+\c@subtable=\count375
+\c@lotdepth=\count376
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip75
+\subfig@bottom=\skip76
+)
+(/Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_report_template/amo_technical_
+reports.sty (/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/03/22 3.42 The Babel package
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/03/22 3.42 Babel switching mechanism
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/03/22 3.42 Babel common definitions
+\babel@savecnt=\count377
+\U@D=\dimen139
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read3
+\bbl@dirlevel=\count378
+)
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 108.
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2020-01-22 v2.0d non-zero parskip adjustments
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 209.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen140
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count379
+\float@exts=\toks17
+\float@box=\box45
+\@float@everytoks=\toks18
+\@floatcapt=\box46
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip77
+\f@nch@O@elh=\skip78
+\f@nch@O@erh=\skip79
+\f@nch@O@olh=\skip80
+\f@nch@O@orh=\skip81
+\f@nch@O@elf=\skip82
+\f@nch@O@erf=\skip83
+\f@nch@O@olf=\skip84
+\f@nch@O@orf=\skip85
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen141
+\captionmargin@=\dimen142
+\captionwidth=\dimen143
+\caption@tempdima=\dimen144
+\caption@indent=\dimen145
+\caption@parindent=\dimen146
+\caption@hangindent=\dimen147
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count380
+\c@continuedfloat=\count381
+Package caption Info: float package is loaded.
+Package caption Info: subfigure package is loaded.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count382
+\calc@Bcount=\count383
+\calc@Adimen=\dimen148
+\calc@Bdimen=\dimen149
+\calc@Askip=\skip86
+\calc@Bskip=\skip87
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count384
+\calc@Cskip=\skip88
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip89
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen150
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+LaTeX Info: Redefining \boldsymbol on input line 28.
+\pmbraise@=\dimen151
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count385
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count386
+\leftroot@=\count387
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count388
+\DOTSCASE@=\count389
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen152
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count390
+\c@MaxMatrixCols=\count391
+\dotsspace@=\muskip21
+\c@parentequation=\count392
+\dspbrk@lvl=\count393
+\tag@help=\toks20
+\row@=\count394
+\column@=\count395
+\maxfields@=\count396
+\andhelp@=\toks21
+\eqnshift@=\dimen153
+\alignsep@=\dimen154
+\tagshift@=\dimen155
+\tagwidth@=\dimen156
+\totwidth@=\dimen157
+\lineht@=\dimen158
+\@envbody=\toks22
+\multlinegap=\skip90
+\multlinetaggap=\skip91
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count397
+\l_MT_multwidth_dim=\dimen159
+\origjot=\skip92
+\l_MT_shortvdotswithinadjustabove_dim=\dimen160
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen161
+\l_MT_above_intertext_sep=\dimen162
+\l_MT_below_intertext_sep=\dimen163
+\l_MT_above_shortintertext_sep=\dimen164
+\l_MT_below_shortintertext_sep=\dimen165
+\xmathstrut@box=\box49
+\xmathstrut@dim=\dimen166
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/jknapltx/mathbbol.sty
+Package: mathbbol 1995/01/01
+\symbbold=\mathgroup7
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup8
+\symAMSb=\mathgroup9
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip93
+\enit@outerparindent=\dimen167
+\enit@toks=\toks24
+\enit@inbox=\box50
+\enit@count@id=\count398
+\enitdp@description=\count399
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/siunitx/siunitx.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-03-06 L3 programming layer (loader) 
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count400
+\l__pdf_internal_box=\box51
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-03-06 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count401
+\g__xparse_grabber_int=\count402
+\l__xparse_m_args_int=\count403
+\l__xparse_v_nesting_int=\count404
+)
+Package: siunitx 2020/02/25 v2.8b A comprehensive (SI) units package
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen168
+\ar@mcellbox=\box52
+\extrarowheight=\dimen169
+\NC@list=\toks25
+\extratabsurround=\skip94
+\backup@length=\skip95
+\ar@cellbox=\box53
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-03-06 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box54
+\l__siunitx_tmp_dim=\dimen170
+\l__siunitx_tmp_int=\count405
+\l__siunitx_number_mantissa_length_int=\count406
+\l__siunitx_number_uncert_length_int=\count407
+\l__siunitx_round_int=\count408
+\l__siunitx_process_decimal_int=\count409
+\l__siunitx_process_uncertainty_int=\count410
+\l__siunitx_process_fixed_int=\count411
+\l__siunitx_process_integer_min_int=\count412
+\l__siunitx_process_precision_int=\count413
+\l__siunitx_group_min_int=\count414
+\l__siunitx_angle_marker_box=\box55
+\l__siunitx_angle_unit_box=\box56
+\l__siunitx_angle_marker_dim=\dimen171
+\l__siunitx_angle_unit_dim=\dimen172
+\l__siunitx_unit_int=\count415
+\l__siunitx_unit_denominator_int=\count416
+\l__siunitx_unit_numerator_int=\count417
+\l__siunitx_unit_prefix_int=\count418
+\l__siunitx_unit_prefix_base_int=\count419
+\l__siunitx_unit_prefix_gram_int=\count420
+\l__siunitx_number_product_int=\count421
+\c__siunitx_one_fill_skip=\skip96
+\l__siunitx_table_unit_align_skip=\skip97
+\l__siunitx_table_exponent_dim=\dimen173
+\l__siunitx_table_integer_dim=\dimen174
+\l__siunitx_table_mantissa_dim=\dimen175
+\l__siunitx_table_marker_dim=\dimen176
+\l__siunitx_table_result_dim=\dimen177
+\l__siunitx_table_uncert_dim=\dimen178
+\l__siunitx_table_fill_pre_dim=\dimen179
+\l__siunitx_table_fill_post_dim=\dimen180
+\l__siunitx_table_fill_mid_dim=\dimen181
+\l__siunitx_table_pre_box=\box57
+\l__siunitx_table_post_box=\box58
+\l__siunitx_table_mantissa_box=\box59
+\l__siunitx_table_result_box=\box60
+\l__siunitx_table_number_align_skip=\skip98
+\l__siunitx_table_text_align_skip=\skip99
+(/usr/local/texlive/2020/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/transparent/transparent.sty
+Package: transparent 2019/11/29 v1.4 Transparency via pdfTeX's color stack (HO)
+
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+))
+\AM@pagewidth=\dimen182
+\AM@pageheight=\dimen183
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box61
+\AM@global@opts=\toks26
+\AM@pagecnt=\count422
+\AM@toc@title=\toks27
+\c@AM@survey=\count423
+\AM@templatesizebox=\box62
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(/Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_report_template/amo_def.tex))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'english'.
+
+(./rydberg_atom_report.aux)
+\openout1 = `rydberg_atom_report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `rydberg_atom_report.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'rydberg_atom_report.bbl' found.
+
+(./rydberg_atom_report.bbl)
+Package biblatex Info: Reference section=0 on input line 35.
+Package biblatex Info: Reference segment=0 on input line 35.
+
+(/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count424
+\scratchdimen=\dimen184
+\scratchbox=\box63
+\nofMPsegments=\count425
+\nofMParguments=\count426
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count427
+\MPscratchDim=\dimen185
+\MPnumerator=\count428
+\makeMPintoPDFobject=\count429
+\everyMPtoPDFconversion=\toks29
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 35.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/translator/translator-basic-dicti
+onary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
+)
+\AtBeginShipoutBox=\box64
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+LaTeX Font Info:    Trying to load font information for U+bbold on input line 3
+5.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/bbold/Ubbold.fd)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
+
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
+
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (5.02249pt too wide) in paragraph at lines 102--103
+[]\OT1/cmr/m/n/10.95 A suc-cint doc-u-men-ta-tion for us-ing the codes is con-t
+ained in di-rec-tory: $\OT1/cmtt/m/n/10.95 / / /users / amo / group / programs 
+/
+ []
+
+[2]
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/basis.png, id
+=16, 294.09875pt x 485.815pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/basis.pn
+g Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/basis.png
+>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/basis.png  used on input line 121.
+(pdftex.def)             Requested size: 153.64644pt x 253.80391pt.
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_de
+creasing_box_size/x_max=400,R=1.png, id=18, 642.4pt x 481.8pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_decreasing_box_size/x_max=400,R=1.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_decreasing_box_size/x_max=400,R=1.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_decreasing_box_size/x_max=400,R=1.png  used on input line
+ 137.
+(pdftex.def)             Requested size: 358.50314pt x 268.87984pt.
+ [3 </Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/basis.png
+>]
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_de
+creasing_box_size/x_max=300,R=1.png, id=24, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_decreasing_box_size/x_max=300,R=1.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_decreasing_box_size/x_max=300,R=1.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_decreasing_box_size/x_max=300,R=1.png  used on input line
+ 144.
+(pdftex.def)             Requested size: 358.50314pt x 268.88925pt.
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_de
+creasing_box_size/x_max=200,R=1.png, id=25, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_decreasing_box_size/x_max=200,R=1.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_decreasing_box_size/x_max=200,R=1.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_decreasing_box_size/x_max=200,R=1.png  used on input line
+ 151.
+(pdftex.def)             Requested size: 358.50314pt x 268.88925pt.
+ [4 </Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_decreasing_box_size/x_max=400,R=1.png> </Users/JohnnyLin/Desktop/HumboldtProg
+ram/HU_AMO_techincal_report/AMO_report_decreasing_box_size/x_max=300,R=1.png>]
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_de
+creasing_box_size/x_max=100,R=1.png, id=32, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_decreasing_box_size/x_max=100,R=1.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_decreasing_box_size/x_max=100,R=1.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_decreasing_box_size/x_max=100,R=1.png  used on input line
+ 158.
+(pdftex.def)             Requested size: 358.50314pt x 268.88925pt.
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_de
+creasing_box_size/x_max=50,R=1.png, id=33, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_decreasing_box_size/x_max=50,R=1.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_decreasing_box_size/x_max=50,R=1.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_decreasing_box_size/x_max=50,R=1.png  used on input line 
+165.
+(pdftex.def)             Requested size: 358.50314pt x 268.88925pt.
+ [5 </Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_decreasing_box_size/x_max=200,R=1.png> </Users/JohnnyLin/Desktop/HumboldtProg
+ram/HU_AMO_techincal_report/AMO_report_decreasing_box_size/x_max=100,R=1.png>]
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_de
+creasing_box_size/x_max=25,R=1.png, id=39, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_decreasing_box_size/x_max=25,R=1.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_decreasing_box_size/x_max=25,R=1.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_decreasing_box_size/x_max=25,R=1.png  used on input line 
+172.
+(pdftex.def)             Requested size: 358.50314pt x 268.88925pt.
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_de
+creasing_box_size/x_max=10,R=1.png, id=40, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_decreasing_box_size/x_max=10,R=1.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_decreasing_box_size/x_max=10,R=1.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_decreasing_box_size/x_max=10,R=1.png  used on input line 
+179.
+(pdftex.def)             Requested size: 358.50314pt x 268.88925pt.
+ [6 </Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_decreasing_box_size/x_max=50,R=1.png> </Users/JohnnyLin/Desktop/HumboldtProgr
+am/HU_AMO_techincal_report/AMO_report_decreasing_box_size/x_max=25,R=1.png>]
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_in
+creasing_R/x_max=100,R=2.png, id=46, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_increasing_R/x_max=100,R=2.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_increasing_R/x_max=100,R=2.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_increasing_R/x_max=100,R=2.png  used on input line 191.
+(pdftex.def)             Requested size: 358.50314pt x 268.88925pt.
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_in
+creasing_R/x_max=100,R=3.png, id=47, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_increasing_R/x_max=100,R=3.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_increasing_R/x_max=100,R=3.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_increasing_R/x_max=100,R=3.png  used on input line 198.
+(pdftex.def)             Requested size: 358.50314pt x 268.88925pt.
+[7 </Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report
+_decreasing_box_size/x_max=10,R=1.png> </Users/JohnnyLin/Desktop/HumboldtProgra
+m/HU_AMO_techincal_report/AMO_report_increasing_R/x_max=100,R=2.png>]
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_in
+creasing_R/x_max=100,R=10.png, id=54, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_increasing_R/x_max=100,R=10.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_increasing_R/x_max=100,R=10.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_increasing_R/x_max=100,R=10.png  used on input line 205.
+(pdftex.def)             Requested size: 358.50314pt x 268.88925pt.
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_in
+creasing_R_Nx/x_max=300,R=10.png, id=55, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_increasing_R_Nx/x_max=300,R=10.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_increasing_R_Nx/x_max=300,R=10.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_increasing_R_Nx/x_max=300,R=10.png  used on input line 21
+8.
+(pdftex.def)             Requested size: 358.50314pt x 268.88925pt.
+ [8 </Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_increasing_R/x_max=100,R=3.png> </Users/JohnnyLin/Desktop/HumboldtProgram/HU_
+AMO_techincal_report/AMO_report_increasing_R/x_max=100,R=10.png>]
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_in
+creasing_R_Nx/x_max=300,R=20.png, id=61, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_increasing_R_Nx/x_max=300,R=20.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_increasing_R_Nx/x_max=300,R=20.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_increasing_R_Nx/x_max=300,R=20.png  used on input line 22
+5.
+(pdftex.def)             Requested size: 358.50314pt x 268.88925pt.
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_in
+creasing_R_Nx/x_max=300,R=30.png, id=62, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_increasing_R_Nx/x_max=300,R=30.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_increasing_R_Nx/x_max=300,R=30.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_increasing_R_Nx/x_max=300,R=30.png  used on input line 23
+2.
+(pdftex.def)             Requested size: 358.50314pt x 268.88925pt.
+ [9 </Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_increasing_R_Nx/x_max=300,R=10.png> </Users/JohnnyLin/Desktop/HumboldtProgram
+/HU_AMO_techincal_report/AMO_report_increasing_R_Nx/x_max=300,R=20.png>]
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_fi
+gures/R_int1.png, id=68, 852.18375pt x 492.84125pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_figures/R_int1.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_figures/R_int1.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_figures/R_int1.png  used on input line 246.
+(pdftex.def)             Requested size: 409.72124pt x 236.95967pt.
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_fi
+gures/R_int2.png, id=69, 774.895pt x 492.84125pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_figures/R_int2.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_figures/R_int2.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_figures/R_int2.png  used on input line 253.
+(pdftex.def)             Requested size: 512.1496pt x 325.73494pt.
+ [10 </Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_increasing_R_Nx/x_max=300,R=30.png> </Users/JohnnyLin/Desktop/HumboldtProgra
+m/HU_AMO_techincal_report/AMO_report_figures/R_int1.png>]
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_fi
+gures_wavefunctions/1u-xi.png, id=74, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_figures_wavefunctions/1u-xi.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_figures_wavefunctions/1u-xi.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_figures_wavefunctions/1u-xi.png  used on input line 273.
+(pdftex.def)             Requested size: 204.8567pt x 153.6457pt.
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_fi
+gures_wavefunctions/1u-eta.png, id=75, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_figures_wavefunctions/1u-eta.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_figures_wavefunctions/1u-eta.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_figures_wavefunctions/1u-eta.png  used on input line 275.
+
+(pdftex.def)             Requested size: 204.8567pt x 153.6457pt.
+ [11 </Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_figures/R_int2.png>]
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_fi
+gures_wavefunctions/1g-xi.png, id=79, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_figures_wavefunctions/1g-xi.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_figures_wavefunctions/1g-xi.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_figures_wavefunctions/1g-xi.png  used on input line 282.
+(pdftex.def)             Requested size: 204.8567pt x 153.6457pt.
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_fi
+gures_wavefunctions/1g-eta.png, id=80, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_figures_wavefunctions/1g-eta.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_figures_wavefunctions/1g-eta.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_figures_wavefunctions/1g-eta.png  used on input line 284.
+
+(pdftex.def)             Requested size: 204.8567pt x 153.6457pt.
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_fi
+gures_wavefunctions/2u-xi.png, id=81, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_figures_wavefunctions/2u-xi.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_figures_wavefunctions/2u-xi.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_figures_wavefunctions/2u-xi.png  used on input line 291.
+(pdftex.def)             Requested size: 204.8567pt x 153.6457pt.
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_fi
+gures_wavefunctions/2u-eta.png, id=82, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_figures_wavefunctions/2u-eta.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_figures_wavefunctions/2u-eta.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_figures_wavefunctions/2u-eta.png  used on input line 293.
+
+(pdftex.def)             Requested size: 204.8567pt x 153.6457pt.
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_fi
+gures_wavefunctions/2g-xi.png, id=83, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_figures_wavefunctions/2g-xi.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_figures_wavefunctions/2g-xi.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_figures_wavefunctions/2g-xi.png  used on input line 300.
+(pdftex.def)             Requested size: 204.8567pt x 153.6457pt.
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_fi
+gures_wavefunctions/2g-eta.png, id=84, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_figures_wavefunctions/2g-eta.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_figures_wavefunctions/2g-eta.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_figures_wavefunctions/2g-eta.png  used on input line 302.
+
+(pdftex.def)             Requested size: 204.8567pt x 153.6457pt.
+ [12 </Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_figures_wavefunctions/1u-xi.png> </Users/JohnnyLin/Desktop/HumboldtProgram/H
+U_AMO_techincal_report/AMO_report_figures_wavefunctions/1u-eta.png> </Users/Joh
+nnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_figures_wavef
+unctions/1g-xi.png> </Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_
+report/AMO_report_figures_wavefunctions/1g-eta.png> </Users/JohnnyLin/Desktop/H
+umboldtProgram/HU_AMO_techincal_report/AMO_report_figures_wavefunctions/2u-xi.p
+ng> </Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_figures_wavefunctions/2u-eta.png>]
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_fi
+gures_wavefunctions/3u-xi.png, id=95, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_figures_wavefunctions/3u-xi.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_figures_wavefunctions/3u-xi.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_figures_wavefunctions/3u-xi.png  used on input line 309.
+(pdftex.def)             Requested size: 204.8567pt x 153.6457pt.
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_fi
+gures_wavefunctions/3u-eta.png, id=96, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_figures_wavefunctions/3u-eta.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_figures_wavefunctions/3u-eta.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_figures_wavefunctions/3u-eta.png  used on input line 311.
+
+(pdftex.def)             Requested size: 204.8567pt x 153.6457pt.
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_fi
+gures_wavefunctions/3g-xi.png, id=97, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_figures_wavefunctions/3g-xi.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_figures_wavefunctions/3g-xi.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_figures_wavefunctions/3g-xi.png  used on input line 318.
+(pdftex.def)             Requested size: 204.8567pt x 153.6457pt.
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_fi
+gures_wavefunctions/3g-eta.png, id=98, 462.528pt x 346.896pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_figures_wavefunctions/3g-eta.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_figures_wavefunctions/3g-eta.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_figures_wavefunctions/3g-eta.png  used on input line 320.
+
+(pdftex.def)             Requested size: 204.8567pt x 153.6457pt.
+</Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_fi
+gures/plan.png, id=99, 3035.34pt x 4047.12pt>
+File: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_figures/plan.png Graphic file (type png)
+<use /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_figures/plan.png>
+Package pdftex.def Info: /Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techin
+cal_report/AMO_report_figures/plan.png  used on input line 341.
+(pdftex.def)             Requested size: 512.1496pt x 682.81398pt.
+ [13 </Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repo
+rt_figures_wavefunctions/2g-xi.png> </Users/JohnnyLin/Desktop/HumboldtProgram/H
+U_AMO_techincal_report/AMO_report_figures_wavefunctions/2g-eta.png> </Users/Joh
+nnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_report_figures_wavef
+unctions/3u-xi.png> </Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_
+report/AMO_report_figures_wavefunctions/3u-eta.png> </Users/JohnnyLin/Desktop/H
+umboldtProgram/HU_AMO_techincal_report/AMO_report_figures_wavefunctions/3g-xi.p
+ng> </Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_figures_wavefunctions/3g-eta.png>] [14]
+Overfull \vbox (6.47601pt too high) has occurred while \output is active []
+
+
+[15 </Users/JohnnyLin/Desktop/HumboldtProgram/HU_AMO_techincal_report/AMO_repor
+t_figures/plan.png>] 
+AED: lastpage setting LastPage
+[16
+
+] (./rydberg_atom_report.aux)
+Package logreq Info: Writing requests to 'rydberg_atom_report.run.xml'.
+\openout1 = `rydberg_atom_report.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 17287 strings out of 480608
+ 343229 string characters out of 5903630
+ 960177 words of memory out of 5000000
+ 32888 multiletter control sequences out of 15000+600000
+ 550923 words of font info for 95 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,12n,48p,2065b,1606s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
+usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
+r/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loc
+al/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/
+texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/t
+exlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on rydberg_atom_report.pdf (16 pages, 18564193 bytes).
+PDF statistics:
+ 153 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 146 words of extra memory for PDF output out of 10000 (max. 10000000)
+

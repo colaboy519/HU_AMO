@@ -1,0 +1,14 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Summary}{2}%
+\contentsline {section}{\numberline {2}Updates (in inverse chronological order)}{2}%
+\contentsline {section}{\numberline {3}Theory Background on Numerical Solution of Schrödinger equation}{2}%
+\contentsline {section}{\numberline {4}Plan}{3}%
+\contentsline {section}{\numberline {5}Basics of Yulian's code}{3}%
+\contentsline {section}{\numberline {6}Convergence Behavior Dependence on N_x}{3}%
+\contentsline {subsection}{\numberline {6.1}Decreasing box size}{4}%
+\contentsline {subsection}{\numberline {6.2}Increasing internuclei distance}{8}%
+\contentsline {subsection}{\numberline {6.3}Increasing internuclei distance and number of BSplines correspondingly}{9}%
+\contentsline {section}{\numberline {7}Convergence Behavior Dependence on R_int}{11}%
+\contentsline {section}{\numberline {8}Plotting Wave Functions}{12}%
+\contentsline {section}{\numberline {9}Conclusion}{12}%

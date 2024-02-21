@@ -1,0 +1,17 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[0] Config.pm:307> INFO - Logfile is 'rydberg_atom_report.blg'
+[57] biber-darwin:322> INFO - === Tue Aug  8, 2023, 02:06:37
+[69] Biber.pm:415> INFO - Reading 'rydberg_atom_report.bcf'
+[135] Biber.pm:943> INFO - Found 1 citekeys in bib section 0
+[147] Biber.pm:4256> INFO - Processing section 0
+[147] Utils.pm:75> INFO - Globbing data source 'bibliography.bib'
+[147] Utils.pm:91> INFO - Globbed data source 'bibliography.bib' to bibliography.bib
+[156] Biber.pm:4455> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[157] bibtex.pm:1653> INFO - LaTeX decoding ...
+[162] bibtex.pm:1471> INFO - Found BibTeX data source 'bibliography.bib'
+[183] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[183] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[183] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[183] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[184] bbl.pm:652> INFO - Writing 'rydberg_atom_report.bbl' with encoding 'UTF-8'
+[185] bbl.pm:755> INFO - Output to rydberg_atom_report.bbl
